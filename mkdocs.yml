@@ -1,0 +1,6 @@
+site_name: Handbook
+nav:
+  - Basics: index.md
+  - Principles: principles.md
+  - Home: home.md
+  - Brands: brands.md
